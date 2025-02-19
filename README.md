@@ -1,40 +1,39 @@
-# Hello, I'm Abuild Simukoko! 👋
+Abuild Simukoko 
+Cybersecurity Expert | Full-Stack Developer | Entrepreneur | Digital Strategist
+Abuild Simukoko is a cybersecurity evangelist, full-stack developer, and entrepreneur based in Kitwe, Zambia. With a strong foundation in offensive security, ethical hacking, and IT solutions, he has pioneered multiple tech projects aimed at digital transformation and innovation.
 
-## 🌍 About Me
-I'm a Cybersecurity Evangelist, Offensive Security Consultant, and Information Security Analyst based in Copperbelt, Zambia. With a passion for technology and programming, I have a strong focus on developing secure and efficient IT systems. I thrive on challenges and enjoy tackling complex security issues.
+👨‍💻 Expertise & Skills
+Cybersecurity & Ethical Hacking: Penetration testing, cybersecurity risk assessment, digital forensics.
+Full-Stack Development: Proficient in HTML, CSS, JavaScript, PHP, Firebase, React.
+Cloud Computing & API Integration: Secure cloud-based applications and real-time data solutions.
+AI & NLP: Developed Audio-to-Text Converter for accurate speech recognition.
+Web & Mobile Development: Custom website design, mobile app integration.
+Business & Digital Strategy: CEO of Aright Futures Foundation, empowering youth in tech.
+🚀 Projects & Innovations
+1ZedJobs.site – Bridging Job Seekers & Employers
+A Zambian job marketplace connecting skilled professionals with employers, featuring a resume builder, employer analytics, and career development resources.
 
-## 💻 Skills
-- Cybersecurity
-- Offensive Security
-- Programming (PHP, Python, and more)
-- WordPress Development
-- Social Media Management
-- IT Support and Troubleshooting
+AbiHealthCare – Telehealth & Online Pharmacy
+A digital telehealth platform offering virtual consultations and prescription deliveries, currently in beta testing with 15 clinics onboarded.
 
-## 📚 Education
-Currently pursuing a Master's in Cyber Security, I am committed to continuous learning and professional development.
+ZamSmartEdu – Financial Literacy for the Underserved
+An initiative under Aright Futures Foundation, providing financial education and digital banking skills to individuals without formal financial training.
 
-## 📂 Projects
-- **[Zamtelemedicine](https://yourprojectlink.com)**: A telemedicine platform aimed at improving healthcare access in Zambia.
+Real Man 002 Code – Unfiltered Truth in Relationships
+A viral relationship awareness content series exposing dating dynamics, finances, and social behaviors with sarcasm and hard-hitting humor.
 
-- **[ZamHealthy Hub](https://yourprojectlink.com)**: A health hub website providing vital information and resources.
+💡 Leadership & Initiatives
+CEO, Aright Futures Foundation – Driving tech mentorship and education.
+Founder, Innovation United FC – Merging sports and leadership development.
+Cybersecurity Awareness Advocate – Partnering with institutions to promote digital safety in Zambia.
+Blogger, Tech & Cybersecurity – Writing at abuildsimukokothetechman.blogspot.com.
+📢 Mission & Vision
+Mission: Driving change through innovation and collaboration.
+Tagline: From tech solutions to impactful futures.
 
-## 📝 Blog
-Check out my blog where I share insights on [cybersecurity, programming, and technology trends](https://abuildsimukokothetechman.blogspot.com).
-
-## 🌱 Currently Learning
-- Advanced web development techniques
-- Ethical hacking practices
-
-## 📫 Get in Touch
-Feel free to connect with me on:
-- [Email](mailto:abuildsimukoko62.as@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
-- [Facebook](https://web.facebook.com/abuild.simukoko)
-
-## 🤝 Let's Collaborate
-I'm always open to new projects and ideas. If you want to work together or just chat about technology, don't hesitate to reach out!
-
----
-
-Thank you for visiting my profile! 🚀
+🔗 Connect with Me
+📩 Email: simukokoabuild@gmail.com
+🌐 Portfolio: abuildsimukokothetechman.blogspot.com
+💼 LinkedIn: linkedin.com/in/abuildsimukoko
+🐦 Twitter (X): @techman_Abi
+👨‍💻 GitHub: github.com/abuildsimukoko
