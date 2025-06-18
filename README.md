@@ -1,47 +1,53 @@
-Abuild Simukoko 
+# 👋 Yo, I’m Abuild Simukoko — aka *The Techman*
 
+🎯 **Cybersecurity Expert | Full-Stack Developer | Entrepreneur | Digital Strategist**
 
-Cybersecurity Expert | Full-Stack Developer | Entrepreneur | Digital Strategist
-Abuild Simukoko is a cybersecurity evangelist, full-stack developer, and entrepreneur based in Kitwe, Zambia. With a strong foundation in offensive security, ethical hacking, and IT solutions, he has pioneered multiple tech projects aimed at digital transformation and innovation.
+I’m not your average developer. I’m the kind that breaks systems — then builds better ones.  
+Born and raised in Kitwe, Zambia, I’ve been on a mission to fuse cybersecurity, code, and business strategy to build tech that actually solves real problems.
 
-👨‍💻 Expertise & Skills
+---
 
-Cybersecurity & Ethical Hacking: Penetration testing, cybersecurity risk assessment, digital forensics.
-Full-Stack Development: Proficient in HTML, CSS, JavaScript, PHP, Firebase, React.
-Cloud Computing & API Integration: Secure cloud-based applications and real-time data solutions.
-AI & NLP: Developed Audio-to-Text Converter for accurate speech recognition.
-Web & Mobile Development: Custom website design, mobile app integration.
-Business & Digital Strategy: CEO of Aright Futures Foundation, empowering youth in tech.
+## 👨‍💻 What I Do Best
 
-🚀 Projects & Innovations
+- 🔐 **Hack it, fix it, secure it** – I specialize in penetration testing, risk assessments, and digital forensics.
+- 💻 **Code for results** – Full-stack wizard with HTML, CSS, JS, PHP, React, Firebase.
+- ☁️ **Cloud & API builds** – Real-time apps with secure backend logic.
+- 🧠 **AI/NLP Projects** – Yes, I built a working speech-to-text engine using raw PHP.
+- 📱 **Web & Mobile Dev** – From scratch-built platforms to integrations.
+- 📊 **Digital Strategy** – Leading Aright Futures Foundation and other ventures.
 
-1ZedJobs.site – Bridging Job Seekers & Employers
-A Zambian job marketplace connecting skilled professionals with employers, featuring a resume builder, employer analytics, and career development resources.
+---
 
-AbiHealthCare – Telehealth & Online Pharmacy
-A digital telehealth platform offering virtual consultations and prescription deliveries, currently in beta testing with 15 clinics onboarded.
+## 🚀 Projects I Built (and I mean built)
 
-ZamSmartEdu – Financial Literacy for the Underserved
-An initiative under Aright Futures Foundation, providing financial education and digital banking skills to individuals without formal financial training.
+### 🔧 [1ZedJobs.site](https://github.com/abuildsimukoko/1zedjobs)
+> Built from the ground up: job seeker platform, resume builder, analytics dashboard — and yes, AI does the matching.
 
-Real Man 002 Code – Unfiltered Truth in Relationships
-A viral relationship awareness content series exposing dating dynamics, finances, and social behaviors with sarcasm and hard-hitting humor.
+### 🏥 AbiHealthCare – *Beta Stage*
+> Online health consultations + prescription delivery. 15 clinics already on it. Full-scale Zambian solution coming soon.
 
-💡 Leadership & Initiatives
+### 📚 ZamSmartEdu – *Digital Finance for the Underserved*
+> Educating people on money, mobile banking, and budgeting who’ve never had access before.
 
-CEO, Aright Futures Foundation – Driving tech mentorship and education.
-Founder, Innovation United FC – Merging sports and leadership development.
-Cybersecurity Awareness Advocate – Partnering with institutions to promote digital safety in Zambia.
-Blogger, Tech & Cybersecurity – Writing at abuildsimukokothetechman.blogspot.com.
+### 💬 [Real Man 002 Code](https://facebook.com/realman002)
+> I say what most won’t — exposing dating games, money traps, and psychological warfare… with style and sarcasm.
 
-📢 Mission & Vision
+---
 
-Mission: Driving change through innovation and collaboration.
-Tagline: From tech solutions to impactful futures.
+## 💡 I Don’t Just Build — I Lead
 
-🔗 Connect with Me
-📩 Email: simukokoabuild@gmail.com
-🌐 Portfolio: abuildsimukokothetechman.blogspot.com
-💼 LinkedIn: linkedin.com/in/abuildsimukoko
-🐦 Twitter (X): @techman_Abi
-👨‍💻 GitHub: github.com/abuildsimukoko
+- 👨‍💼 CEO of **Aright Futures Foundation** — Tech mentorship, training, and empowerment for youth.
+- 🧠 Cybersecurity Awareness Campaigner — Active across schools, events, and orgs.
+- ✍️ I blog when I can (and when I’m fed up with nonsense):  
+  [abuildsimukokothetechman.blogspot.com](https://abuildsimukokothetechman.blogspot.com)
+
+---
+
+## 🛠️ Tools in My Tech Bag
+
+```bash
+Languages:     PHP, JavaScript, Python, SQL, C#
+Frameworks:    Laravel, React, Firebase, Tailwind CSS
+Cyber Tools:   Nmap, Wireshark, Metasploit, Burp Suite
+Cloud & APIs:  Firebase, cPanel, REST APIs
+Dev Platforms: Kali Linux, Windows Server, XAMPP, GitHub
