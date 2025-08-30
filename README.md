@@ -18,21 +18,30 @@ Born and raised in Kitwe, Zambia, I’ve been on a mission to fuse cybersecurity
 
 ---
 
-## 🚀 Projects I Built (and I mean built)
+🚀 Flagship Projects I’ve Built (Yes, I Built Them)
+🔧 1ZedJobs.site
 
-### 🔧 [1ZedJobs.site](https://github.com/abuildsimukoko/1zedjobs)
-> Built from the ground up: job seeker platform, resume builder, analytics dashboard — and yes, AI does the matching.
+Full-stack job platform built from scratch: resume builder, employer analytics dashboard, and AI-powered job matching that actually works.
 
-### 🏥 AbiHealthCare – *Beta Stage*
-> Online health consultations + prescription delivery. 15 clinics already on it. Full-scale Zambian solution coming soon.
+🏥 AbiHealthCare – Beta Stage
 
-### 📚 ZamSmartEdu – *Digital Finance for the Underserved*
-> Educating people on money, mobile banking, and budgeting who’ve never had access before.
+Digital health solution: online consultations, prescription delivery, 15 clinics already onboard. Full-scale Zambian rollout coming soon.
 
-### 💬 [Real Man 002 Code](https://facebook.com/realman002)
-> I say what most won’t — exposing dating games, money traps, and psychological warfare… with style and sarcasm.
+📚 ZamSmartEdu – Digital Finance for the Underserved
 
----
+Teaching financial literacy, budgeting, and mobile banking to people who’ve never had access to these tools.
+
+💬 Real Man 002 Code
+
+Exposing dating games, money traps, and psychological maneuvers — served with sarcasm and style.
+
+❤️ RaceDating.com / – Lead Developer
+
+From matchmaking algorithms to engagement features, built a dating platform designed for real connections in Zambia.
+
+🔊 Audio-to-Text Converter – NLP Project
+
+Custom-built PHP engine that converts audio recordings to text with high accuracy — no off-the-shelf hacks here.
 
 ## 💡 I Don’t Just Build — I Lead
 
@@ -46,8 +55,12 @@ Born and raised in Kitwe, Zambia, I’ve been on a mission to fuse cybersecurity
 ## 🛠️ Tools in My Tech Bag
 
 ```bash
-Languages:     PHP, JavaScript, Python, SQL, C#
-Frameworks:    Laravel, React, Firebase, Tailwind CSS
-Cyber Tools:   Nmap, Wireshark, Metasploit, Burp Suite
-Cloud & APIs:  Firebase, cPanel, REST APIs
-Dev Platforms: Kali Linux, Windows Server, XAMPP, GitHub
+Languages:     PHP, JavaScript, Python, SQL, C#, HTML, CSS
+Frameworks:    Laravel, React, Firebase, Tailwind CSS, Flutter (mobile)
+Cyber Tools:   Nmap, Wireshark, Metasploit, Burp Suite, Kali Linux
+Cloud & APIs:  Firebase, cPanel, REST APIs, AWS basics
+Data & Analytics: MySQL, PostgreSQL, Power BI, data-driven insights
+Dev Platforms: Windows Server, XAMPP, GitHub (https://github.com/abuildsimukoko)
+Project & Productivity: Jira, Trello, Notion, Agile/Scrum
+ML & AI: NLP pipelines, speech-to-text engines, TensorFlow, PyTorch
+
